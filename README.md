@@ -1,4 +1,4 @@
 
 -------------------------------------------------------------------------
-# jsAndBootstrapVersionsUsed
-## Display the Javascript and/or Bootstrap versions used.
+# jQueryAndBootstrapVersionsUsed
+## Display the jQuery and/or Bootstrap versions used.
